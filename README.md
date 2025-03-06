@@ -47,11 +47,62 @@ If you check out my projects, many of them involve **full-stack development**. H
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=dark)
+<div align="center">
+  
+  ### **VanshRajput-dev's GitHub Stats**  
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=dark" width="500"/>
+  
+  <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VanshRajput-dev&theme=dark)
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/⭐%20Total%20Stars-0-yellow?style=flat-square"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/📝%20Total%20Commits%20(2024)-47-brightgreen?style=flat-square"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/🔃%20Total%20PRs-0-blue?style=flat-square"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/🛠️%20Total%20Issues-0-red?style=flat-square"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/📆%20Contributed%20(Last%20Year)-1-purple?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
 
----
+  <br>
+
+  ### **Contribution Streak**  
+  <img src="https://streak-stats.demolab.com?user=VanshRajput-dev&theme=dark&hide_border=false" width="500"/>
+
+  <br>
+
+  <table>
+    <tr>
+      <td>
+        <strong>🔢 Total Contributions</strong>  
+        <br>
+        <img src="https://img.shields.io/badge/64-Contributions-orange?style=flat-square"/>
+      </td>
+      <td>
+        <strong>🔥 Current Streak</strong>  
+        <br>
+        <img src="https://img.shields.io/badge/2-Days-red?style=flat-square"/>
+      </td>
+      <td>
+        <strong>📈 Longest Streak</strong>  
+        <br>
+        <img src="https://img.shields.io/badge/6-Days-blue?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 ## **🚀 Featured Projects**  
 
