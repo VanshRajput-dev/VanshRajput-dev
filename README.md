@@ -53,7 +53,10 @@ If you check out my projects, many of them involve **full-stack development**. H
   <img src="https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=dark" width="500"/>
   <br><br>
   ### **🔥 Contribution Streak**  
-  <img src="[https://streak-stats.demolab.com?user=VanshRajput-dev&theme=dark&hide_border=false](https://camo.githubusercontent.com/dec7e3aa8996b572505910789902993dba7ab003d01b91f9b9d685160f41ba60/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d56616e736852616a7075742d646576267468656d653d6461726b26686964655f626f726465723d66616c7365)" width="500"/>
+ <p align="center">
+  <img src="https://streak-stats.demolab.com?user=VanshRajput-dev&theme=dark&hide_border=false" width="500"/>
+</p>
+
 
   
 
