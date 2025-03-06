@@ -51,57 +51,11 @@ If you check out my projects, many of them involve **full-stack development**. H
   
   ### **VanshRajput-dev's GitHub Stats**  
   <img src="https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=dark" width="500"/>
-  
   <br><br>
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/⭐%20Total%20Stars-0-yellow?style=for-the-badge"/>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/📝%20Total%20Commits%20(2024)-47-brightgreen?style=for-the-badge"/>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🔃%20Total%20PRs-0-blue?style=for-the-badge"/>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🛠️%20Total%20Issues-0-red?style=for-the-badge"/>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/📆%20Contributed%20(Last%20Year)-1-purple?style=for-the-badge"/>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
   ### **🔥 Contribution Streak**  
-  <img src="https://streak-stats.demolab.com?user=VanshRajput-dev&theme=dark&hide_border=false" width="500"/>
+  <img src="[https://streak-stats.demolab.com?user=VanshRajput-dev&theme=dark&hide_border=false](https://camo.githubusercontent.com/dec7e3aa8996b572505910789902993dba7ab003d01b91f9b9d685160f41ba60/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d56616e736852616a7075742d646576267468656d653d6461726b26686964655f626f726465723d66616c7365)" width="500"/>
 
-  <br><br>
-
-  <table>
-    <tr>
-      <td>
-        <strong>🔢 Total Contributions</strong>  
-        <br>
-        <img src="https://img.shields.io/badge/64-Contributions-orange?style=for-the-badge"/>
-      </td>
-      <td>
-        <strong>🔥 Current Streak</strong>  
-        <br>
-        <img src="https://img.shields.io/badge/2-Days-red?style=for-the-badge"/>
-      </td>
-      <td>
-        <strong>📈 Longest Streak</strong>  
-        <br>
-        <img src="https://img.shields.io/badge/6-Days-blue?style=for-the-badge"/>
-      </td>
-    </tr>
-  </table>
-
-</div>
+  
 
 
 ## **🚀 Featured Projects**  
