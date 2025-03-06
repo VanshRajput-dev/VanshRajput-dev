@@ -48,11 +48,8 @@ If you check out my projects, many of them involve **full-stack development**. H
 ## 📈 GitHub Stats  
 
 <div align="center">
-  
-  ### **VanshRajput-dev's GitHub Stats**  
   <img src="https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=dark" width="500"/>
   <br><br>
-  ### **🔥 Contribution Streak**  
   <img src="https://streak-stats.demolab.com?user=VanshRajput-dev&theme=dark&hide_border=false" width="500"/>
 </div>
 
