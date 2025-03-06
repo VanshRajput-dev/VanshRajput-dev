@@ -48,11 +48,9 @@ If you check out my projects, many of them involve **full-stack development**. H
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=dark" width="400"/>
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=VanshRajput-dev&theme=dark" width="400"/>
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=dark" width="400"/> 
+  <br><br> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshRajput-dev&theme=dark" width="400"/> </p>
 ---
 
 ## **🚀 Featured Projects**  
