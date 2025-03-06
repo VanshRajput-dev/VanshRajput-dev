@@ -53,12 +53,8 @@ If you check out my projects, many of them involve **full-stack development**. H
   <img src="https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=dark" width="500"/>
   <br><br>
   ### **🔥 Contribution Streak**  
- <p align="center">
   <img src="https://streak-stats.demolab.com?user=VanshRajput-dev&theme=dark&hide_border=false" width="500"/>
-</p>
-
-
-  
+</div>
 
 
 ## **🚀 Featured Projects**  
@@ -68,3 +64,4 @@ If you check out my projects, many of them involve **full-stack development**. H
 🔹 **Budget Manager** – A simple and effective way to track expenses  
 
 🔥 **Let’s create something impactful!** 🚀
+why is the second link in git hub stats not woring fix it
