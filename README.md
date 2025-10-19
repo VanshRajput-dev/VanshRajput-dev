@@ -1,29 +1,55 @@
 <!-- Banner Section -->
- 
-## **Hello, I'm Vansh!** 👋  
 
-I am a **B.Tech student** passionate about **full-stack development** and **data structures & algorithms**.  
-I specialize in **building scalable applications** and exploring **cutting-edge technologies**.  
+## 👋 **Hey, I'm Vansh!**
 
-### **🔹 About Me**  
-- 🎯 **Currently Learning:** Data Structures & Algorithms  
-- 🛠️ **Tech Stack:** Java, JavaScript, HTML, CSS, React  
-- 🚀 **Exploring:** Next.js, System Design, and Backend Architecture  
-- 🤝 **Open to Collaboration:** Always up for innovative projects  
+I'm a **B.Tech student at SRM University (2023–2027)** passionate about **Full-Stack Development**, **AI integration**, and **Data Structures & Algorithms**.  
+I love building **scalable web apps**, experimenting with **machine learning**, and creating **automation tools** that make life easier.
 
 ---
 
-## **⚙️ Technologies & Languages**  
+### 🔹 **About Me**
+- 🎯 **Currently Learning:** DSA (Striver’s Playlist) & System Design  
+- 🧠 **Exploring:** AI-powered Chrome Extensions, Flask APIs, and Whisper-based projects  
+- 🛠️ **Tech Stack:** Java, JavaScript, Python, HTML, CSS, React, SQLite  
+- ⚙️ **Tools & Frameworks:** Flask, Node.js, Next.js, Tailwind, Git, VS Code  
+- 🤝 **Open to Collaboration:** Full-stack, ML, or automation projects  
+- 📈 **Goal:** Build impactful products that combine **AI + Development**
 
-If you check out my projects, many of them involve **full-stack development**. Here are my most-used technologies:  
+---
+
+## ⚙️ **Technologies & Languages**
+
+My repositories often involve **AI integration, web development, and data structures**.  
+Here’s a glance at my most-used languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshRajput-dev&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshRajput-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## **💼 Connect with Me**  
+## 📈 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=tokyonight" width="500" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshRajput-dev&theme=tokyonight&hide_border=false" width="500" />
+</div>
+
+---
+
+## 🚀 **Featured Projects**
+
+🔹 **Whisper Chrome Extension** – Real-time subtitle generator for any video using Whisper + Flask  
+🔹 **Airport Management System** – Java + SQLite project using triggers, cursors & concurrency control  
+🔹 **AI Sign Translator** – Converts spoken words into AI-generated sign language animations  
+🔹 **DSA Visualizer** – Interactive visualization for sorting and searching algorithms  
+
+💡 *I believe in learning by building — every project teaches me something new.*
+
+---
+
+## 💼 **Connect with Me**
 
 <p align="left">
   <a href="https://www.instagram.com/vanshrajputxd/">
@@ -45,20 +71,4 @@ If you check out my projects, many of them involve **full-stack development**. H
 
 ---
 
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=dark" width="500"/>
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=VanshRajput-dev&theme=dark&hide_border=false" width="500"/>
-</div>
-
-
-## **🚀 Featured Projects**  
-
-🔹 **DSA Visualizer** – An interactive visualization of sorting algorithms  
-🔹 **Cab Booking App** – A full-stack ride-booking platform  
-🔹 **Budget Manager** – A simple and effective way to track expenses  
-
-🔥 **Let’s create something impactful!** 🚀
-why is the second link in git hub stats not woring fix it
+🔥 **"Code. Learn. Repeat."** — Let’s build something impactful together 🚀
