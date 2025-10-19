@@ -1,89 +1,114 @@
-<!-- Banner & Intro -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Vansh Rajput&animation=fadeIn&color=gradient&height=120" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=🚀%20Vansh%20Rajput%20|%20Full-Stack%20+%20AI%20Developer&fontAlignY=40&color=gradient&fontColor=ffffff" />
 </p>
 
-## 👋 Hello, I’m **Vansh Rajput**
-
-I’m a **B.Tech student (2023-27)** passionate about full-stack development, data structures & algorithms, and integrating AI into real-world apps.  
-I build **scalable applications**, explore **system-design**, and recently dived deep into **Chrome extensions**, **Flask APIs**, and **Whisper-based AI automation**.
-
----
-
-### 🔍 What I’m Up To
-- 🎯 **Currently Learning:** DSA (Striver’s playlist) & System Design  
-- 🧠 **Exploring:** AI-powered Chrome Extensions, Whisper + Speech to Text, Backend Architecture  
-- 🚀 **Tech Stack:** Java · JavaScript · Python · HTML · CSS · React · Next.js · Flask · Node.js  
-- 📚 **Tools & Interests:** Git, Tailwind CSS, Azure/AWS basics, SQLite, and everything serverless  
-- 🤝 **Open to Collaboration:** Full-stack, AI/ML, automation projects  
-- 💡 **Goal:** Build impactful products that combine **AI + Web + User Value**
-
----
-
-### ⚙️ Technologies & Languages  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshRajput-dev&layout=compact&theme=tokyonight" alt="Top Languages" />  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=600&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+AI-powered+Apps+💡;Exploring+Full-Stack+and+System+Design+⚙️;Turning+Ideas+into+Reality+🚀;Coding+is+my+Canvas+🎨" />
 </p>
 
 ---
 
-### 📈 GitHub Stats  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=tokyonight" width="500"/>  
-  <br><br>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshRajput-dev&theme=tokyonight&hide_border=false" width="500"/>  
+## 🧠 About Me
+
+Hi! I’m **Vansh Rajput**, a **B.Tech student at SRM University (2023-2027)** passionate about  
+**Full-Stack Development**, **AI Integration**, and **Data Structures & Algorithms**.  
+
+💡 I enjoy blending **AI models**, **web frameworks**, and **clean design** to craft meaningful tech.  
+Right now, I’m diving deep into **DSA (Striver’s Playlist)** and **System Design** to strengthen my fundamentals.
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+<div align="center">
+  
+| Languages | Frontend | Backend | Database | AI/ML | Tools |
+|:--|:--|:--|:--|:--|:--|
+| Java · JavaScript · Python · C++ | React · Next.js · HTML · CSS · Tailwind | Node.js · Flask | SQLite · MongoDB | PyTorch · scikit-learn · Whisper | Git · VS Code · Postman · Figma |
+
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. **Whisper Chrome Extension**  
-Use Speech → Text live in the browser. Powered by OpenAI Whisper + Flask backend.  
-Highlights: Real-time transcription, UI overlay, lightweight architecture, deployable on Vercel/Heroku.
-
-### 2. **Airport Management System**  
-Java backend + SQLite. Implements triggers, cursors, concurrency control — real-world DB project simulating airport operations.  
-Highlights: Modular architecture, clean code, ready for extension.
-
-### 3. **AI Sign Translator**  
-Speak or type a sentence → AI generates animated sign language sequence.  
-Tech: Python + ML model + React UI.  
-Highlights: Accessibility-focused, novel integration, deployable as PWA.
-
-### 4. **DSA Visualizer**  
-Interactive visualization of sorting & searching algorithms.  
-Tech: React + Canvas/SVG.  
-Highlights: Educational, clean UI, mobile friendly.
+### 🧩 Whisper Chrome Extension  
+🎙 **Real-Time Subtitles for Any Video** using Chrome API + Flask + Whisper  
+- Captures tab audio → sends to backend → displays live captions  
+- Built with `chrome.tabCapture`, persistent background page, & dynamic content injection  
+🔗 *[View Repository](#)*
 
 ---
 
-## 🧩 More Projects  
-- **Full-Stack Ride-Booking App** – Users book rides, drivers accept; React frontend + Node.js backend + MongoDB.  
-- **Budget Manager WebApp** – Expense tracking with charts, authentication, React + Firebase.  
-- **Blog Platform** – Next.js + Markdown + Serverless API with search and tagging built-in.
+### ✈️ Airport Management System (Java + SQLite)  
+A realistic **DBMS simulation** using **triggers**, **cursors**, and **views**.  
+- Multi-user concurrency for seat reservations via Java threads  
+- Includes custom trigger logging & passenger views  
+🔗 *[View Repository](#)*
 
 ---
 
-### 📫 Connect with Me  
-<p align="left">  
-  <a href="https://www.instagram.com/vanshrajputxd/">  
-    <img src="https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>  
-  </a>  
-  <br>  
-  <a href="https://x.com/Vansh_Rajput_1">  
-    <img src="https://img.shields.io/badge/X-222222?style=for-the-badge&logo=x&logoColor=white" alt="X"/>  
-  </a>  
-  <br>  
-  <a href="https://www.linkedin.com/in/vansh-rajput-95348a270/">  
-    <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
-  </a>  
-  <br>  
-  <a href="mailto:vr7404560@gmail.com">  
-    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>  
-  </a>  
+### 🤖 AI Sign Translator  
+AI project translating **spoken words → animated sign language**.  
+- Combines **speech-to-text**, **gesture generation**, and **animation rendering**  
+- Built with Python + React + MediaPipe  
+🔗 *[View Repository](#)*
+
+---
+
+### 🧠 ETL + ML Sentiment Pipeline  
+An **end-to-end machine learning workflow** integrating ETL + training + prediction API.  
+- Cleans & transforms raw data  
+- Trains custom PyTorch model and saves as `.pt`  
+- Flask API planned for real-time inference  
+🔗 *[View Repository](#)*
+
+---
+
+### 📊 DSA Visualizer  
+Interactive React app to **visualize sorting/search algorithms**.  
+- Dynamic canvas rendering  
+- Great for students learning algorithmic flow  
+🔗 *[View Repository](#)*
+
+---
+
+## 🧱 Side Projects & Automation
+
+- 🕒 **Git Commit Automation Script** — Auto-pushes daily contributions via SSH  
+- 🧬 **AI Automation Workflow** — Connects trained ML models to Flask endpoints  
+- 🧰 **Chrome Utility Add-ons** — Lightweight extensions for workflow boost
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshRajput-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="480"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshRajput-dev&theme=tokyonight&hide_border=true" width="480"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshRajput-dev&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 💬 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vansh-rajput-95348a270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Vansh_Rajput_1"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/vanshrajputxd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:vr7404560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-**“Code. Learn. Repeat.”** — Let’s build something impactful together 🚧  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="90%"/>
+</p>
+
+---
+
+<h3 align="center">⚡ “Code. Learn. Repeat.” — Let's Build Something Impactful. ⚡</h3>
