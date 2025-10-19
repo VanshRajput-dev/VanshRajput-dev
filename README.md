@@ -1,21 +1,21 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=🚀%20Vansh%20Rajput%20|%20Full-Stack%20+%20AI%20Developer&fontAlignY=40&color=gradient&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Vansh%20Rajput&desc=Full-Stack%20+%20AI%20Developer&fontAlign=50&fontSize=60&descAlignY=65&color=gradient&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=600&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+AI-powered+Apps+💡;Exploring+Full-Stack+and+System+Design+⚙️;Turning+Ideas+into+Reality+🚀;Coding+is+my+Canvas+🎨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=600&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Apps+💡;Exploring+Full-Stack+and+System+Design+⚙️;Turning+Ideas+into+Reality+🚀;Coding+is+my+Canvas+🎨" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Hi! I’m **Vansh Rajput**, a **B.Tech student at SRM University (2023-2027)** passionate about  
-**Full-Stack Development**, **AI Integration**, and **Data Structures & Algorithms**.  
+Hey, I’m **Vansh Rajput**, a **B.Tech student at SRM University (2023–2027)** passionate about  
+**Full-Stack Development**, **Machine Learning**, and **AI Automation**.
 
-💡 I enjoy blending **AI models**, **web frameworks**, and **clean design** to craft meaningful tech.  
-Right now, I’m diving deep into **DSA (Striver’s Playlist)** and **System Design** to strengthen my fundamentals.
+💡 I build projects that connect **web technologies** with **intelligent systems** — creating a blend of logic, design, and innovation.  
+Currently sharpening my skills in **DSA (Striver’s Playlist)** & **System Design** while working on automation-heavy AI projects.
 
 ---
 
@@ -31,54 +31,34 @@ Right now, I’m diving deep into **DSA (Striver’s Playlist)** and **System De
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧩 Whisper Chrome Extension  
-🎙 **Real-Time Subtitles for Any Video** using Chrome API + Flask + Whisper  
-- Captures tab audio → sends to backend → displays live captions  
-- Built with `chrome.tabCapture`, persistent background page, & dynamic content injection  
-🔗 *[View Repository](#)*
-
----
-
-### ✈️ Airport Management System (Java + SQLite)  
-A realistic **DBMS simulation** using **triggers**, **cursors**, and **views**.  
-- Multi-user concurrency for seat reservations via Java threads  
-- Includes custom trigger logging & passenger views  
-🔗 *[View Repository](#)*
-
----
-
-### 🤖 AI Sign Translator  
-AI project translating **spoken words → animated sign language**.  
-- Combines **speech-to-text**, **gesture generation**, and **animation rendering**  
-- Built with Python + React + MediaPipe  
-🔗 *[View Repository](#)*
-
----
+## 🚀 Featured Projects  
 
 ### 🧠 ETL + ML Sentiment Pipeline  
-An **end-to-end machine learning workflow** integrating ETL + training + prediction API.  
-- Cleans & transforms raw data  
-- Trains custom PyTorch model and saves as `.pt`  
-- Flask API planned for real-time inference  
-🔗 *[View Repository](#)*
+An end-to-end **ETL → Model → Predict** workflow integrating data cleaning, training, and deployment.  
+- Automates dataset ingestion and preprocessing  
+- Trains a custom **PyTorch** sentiment model (`.pt` saved)  
+- Flask backend planned for live predictions  
+- Future-ready for automation pipelines  
+🔗 *[View Repository](#)*  
 
 ---
 
-### 📊 DSA Visualizer  
-Interactive React app to **visualize sorting/search algorithms**.  
-- Dynamic canvas rendering  
-- Great for students learning algorithmic flow  
-🔗 *[View Repository](#)*
+### 🌌 VanshVerse – ML Automation Suite  
+A personal project integrating **ML training, automation, and deployment** into one framework.  
+- Handles dataset versioning, model retraining, and scheduled jobs  
+- Built for long-term scalability and experimentation  
+- Foundation for future **AI research projects**  
+🔗 *[View Repository](#)*  
 
 ---
 
-## 🧱 Side Projects & Automation
+## 🧱 More Projects  
 
-- 🕒 **Git Commit Automation Script** — Auto-pushes daily contributions via SSH  
-- 🧬 **AI Automation Workflow** — Connects trained ML models to Flask endpoints  
-- 🧰 **Chrome Utility Add-ons** — Lightweight extensions for workflow boost
+- **Airport Management System** – Java + SQLite with concurrency control, triggers, and views  
+- **AI Sign Translator** – Speech/text → animated sign language conversion  
+- **DSA Visualizer** – Algorithm visualizations (sorting, searching, pathfinding)  
+- **Git Commit Automation Script** – Auto-pushes daily commits using SSH + Python loop  
+- **Budget Manager App** – Track and visualize expenses with React + Firebase  
 
 ---
 
